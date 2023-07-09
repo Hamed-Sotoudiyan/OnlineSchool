@@ -5,8 +5,11 @@ This is a Django project that provides an API for managing teachers, courses, an
 ----------------------------------------------------------------------------------
 
 ## Requirements
+
 Python (version 3.10)
+
 Django (version 4.X)
+
 Django REST Framework 
 
 ----------------------------------------------------------------------------------
@@ -68,4 +71,5 @@ feel free to open a pull request with your changes.
 ## Acknowledgements
 
 Django - The web framework used in this project.
+
 Django REST Framework - A powerful and flexible toolkit for building Web APIs.
